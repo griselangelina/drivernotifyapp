@@ -1,0 +1,42 @@
+.homepage{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.row{
+    width:80%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    border:0px solid gray;
+    line-height: 30px;
+}
+
+.row table{
+   margin-top:20px;
+}
+
+.row table th,tr{
+    background-color:lightblue;
+}
+
+.paging{
+    display: flex;
+    flex-direction: row;
+    margin-top:30px;
+}
+.paging .title{
+    margin-right:20px;
+}
+.paging .number{
+    margin-right:10px;
+    background-color: gray;
+    padding:10px;
+    color:white;
+    cursor: pointer;
+}
+
+.number.active{
+    background-color: orange;
+}

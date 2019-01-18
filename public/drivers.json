@@ -1,0 +1,30 @@
+{
+	"drivers":[{
+		"id": 1,
+		"name": "John Doe",
+		"phone": "+62888888888",
+		"email": "john@gmail.com",
+		"suspended": 0
+		}, {
+		"id": 2,
+		"name": "Jane Doe",
+		"phone": "+62888888887",
+		"email": "jane@gmail.com",
+		"suspended": 1
+	},
+	{
+		"id": 3,
+		"name": "Holi Derr",
+		"phone": "+62888889987",
+		"email": "holi@gmail.com",
+		"suspended": 0
+	},
+	{
+		"id": 4,
+		"name": "Tere Foe",
+		"phone": "+62899888887",
+		"email": "tere@gmail.com",
+		"suspended": 1
+	}]
+}
+
