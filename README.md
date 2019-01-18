@@ -22,7 +22,7 @@ Extra Work
  
 SetUp Instruction
 ===================
-1. download file pada github 
+1. download file pada github https://github.com/griselangelina/drivernotifyapp
 2. masuk ke folder frontendtest dengan cd frontendtest
 3. pada layar console tulis perintah npm install
 4. setelah install selesai jalankan apps dengan perintah npm start pada console
